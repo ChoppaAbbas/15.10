@@ -1,0 +1,169 @@
+* {
+    margin: 100;
+    padding: 100;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color:#6B8E23    ;
+}
+.logo {
+    background-color: #006400;
+    width:100%;
+    height:75px;
+    
+}
+.navbar {
+    width: 100%;
+    height: 50px;
+    background-color:#3CB371 ;
+    left:700px;
+    font-size:20px;
+font-style:; 
+font-family: WIDE LATIN;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 20px;
+color: #0000FF;
+display: flex;
+justify-content: center;
+
+
+}
+.search input{
+    text-align: center;
+}
+.search{
+    display: flex;
+}
+
+
+
+.main{
+    display: flex;
+    border-radius: 15px;
+    position:relative
+    justify-content:space-around;
+    background-color:;
+}
+.block:nth-child(1){
+    width: 250px;
+    height: 250px;
+    background:url('../img/film.jpg');
+    display: flex; 
+    background-color: green; 
+    background-size: cover;
+    position: relative;
+    justify-content:space-between;
+    border-radius: 8px
+    
+
+}
+
+
+.block button {
+    width: 100px;
+    height: 42px;
+    background: #D2691E;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color:white;
+    bottom:0;
+    border:none;
+}
+
+.content {
+    width:100%;
+    height: 300px;
+    display:flex;
+    justify-content: center;
+    background-color:#006400;
+}
+.block:nth-child(2){
+    background-color: blue;
+    background: url("../img/film2.jpg");
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    position: relative;
+    border-radius: 8px;
+}
+.block3 {
+    width: 100%;
+    height: 200px;
+    background-color:#808000;
+    display: flex;
+     font-size:20px;
+font-style:; 
+font-family: WIDE LATIN;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 20px;
+color: #0000FF;
+display: flex;
+justify-content: center;
+
+}
+.block3 button {
+    background: #D2691E;
+
+}
+a {
+  text-decoration: none; 
+  background:#000080; 
+  color:#696969; 
+  padding:10px;
+  font-family: arial; 
+  border-radius:5px; 
+  -moz-transition: all 0.3s 0.01s ease; 
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;
+}
+}
+a hover {background :red;}
+
+.block:nth-child(3){
+    background-color: aqua;
+    background: url("../img/film3.jpg");
+    width: 250px;
+    height:250px;
+    background-size: cover;
+    position: relative;
+    border-radius: 10px;
+}
+.block:nth-child(4){
+    background-color:red;
+    background:url('../img/film4.jpg');
+    width: 250px;
+    height:250px;
+    background-size: cover;
+    position: relative;
+    border-radius: 10px;
+}
+.button:nth-child(5){
+    background-color: red;
+    width: 150px;
+    height: 150px;
+}
+.footer{
+ width: 100%;
+ height: 250px;
+ background-color:black;
+ font-size:20px;
+font-style:; 
+font-family: Post No Bills Jaffna;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 20px;
+color: gray;
+display: flex;
+}
+.text {
+    width: 100px;
+    height: 15px;
+}
