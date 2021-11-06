@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<title>Poiskkino.kz</title>
+   <link rel="stylesheet" href="css/style.css" >
+</head>
+<body>
+	<div class="header">
+		<ul>
+ 		<div class="logo" ><img src="img/logo.png" width="100" height="75"></div>
+ 		<div class="search"></div>
+ 		 <input type="text" placeholder="Search">
+ 		 <div class="search-icon"></div>
+	</div>
+	<div class="navbar"> Лучший сайт с лучшими фильмами</div>
+	<div class="content">
+			<table border="0" cellpadding="10px" cellpadding="0px">
+				<tr>
+			<div class="block"><button> купить билет</button></div>
+			<div class="block"><button> купить билет</button></div>
+			<div class="block"><button> купить билет</button></div>
+			<div class="block"><button> купить билет</button></div>
+			</tr>
+			</table>
+		</div>
+		<div class='block3'>
+			<img src="img/film5.jpg" width="150" height="200"><button>купить билет</button> <table border="0" cellpadding="10px" cellpadding="0px">
+			<img src="img/21.jpg"width="150" height="200"><button> купить билет</button> <table border="0" cellpadding="10px" cellpadding="0px">
+            <img src="img/aquamen.jpg"width="150" height="200"><button> купить билет</button> <table border="0" cellpadding="10px" cellpadding="0px">
+            <img src="img/dovod.jpg"width="150" height="200"><button> купить билет</button> <table border="0" cellpadding="10px" cellpadding="0px">
+            <img src="img/blood.jpg"width="150" height="200"><button> купить билет</button> <table border="0" cellpadding="10px" cellpadding="0px">
+            <img src="img/zombie.jpg"width="150" height="200"><button> купить билет</button> <table border="0" cellpadding="10px" cellpadding="0px">
+		</div>
+
+
+
+	      	
+</body>
+</html>
